@@ -11,11 +11,11 @@ I am a PhD student at Shanghai Jiao Tong University, majoring in computational b
 
 Research Experiences
 ------
-07.2020 – 03.2022: Research assistant &nbsp;&nbsp;&nbsp;&nbsp; Center for Excellence in Molecular Cell Science, CAS (CEMCS) <br/>
+07.2020 – 03.2022: Research assistant &nbsp;&nbsp;&nbsp;&nbsp; Center for Excellence in Molecular Cell Science, CAS <br/>
 Proposed a novel file storing format for DNA methylation and developed related software and database. (Bioinformatics, 2021) <br/>
-07.2015 - 08.2015: Summer Intern &nbsp;&nbsp;&nbsp;&nbsp; Shanghai Institute of Health Sciences, CAS (IHS) <br/>
+07.2015 - 08.2015: Summer Intern &nbsp;&nbsp;&nbsp;&nbsp; Shanghai Institute of Health Sciences, CAS  <br/>
 Involved in the study of GM-CSF post-transcriptional regulation mechanisms in T cells of autoimmune disease. <br/>
-06.2014 - 05.2017: Laboratory Intern&nbsp;&nbsp;&nbsp;&nbsp; Nanjing Agricultural University (NJAU) <br/>
+06.2014 - 05.2017: Laboratory Intern&nbsp;&nbsp;&nbsp;&nbsp; Nanjing Agricultural University <br/>
 LPP1 mutant library construction and CRISPR Cas9 screening in Arabidopsis thaliana. <br/>
 
 Education
