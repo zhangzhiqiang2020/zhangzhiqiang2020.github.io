@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Shanghai Jiao Tong University, majoring in computational biology with a focus on cancer epigenomics. I utilize bioinformatics skills to systematically decodeing dynamics of DNA methylation landscapes during cancer initiation, progress, drug response and resistance. In addition, I am interested in developing novel computational methods for non-invasive early cancer detection. I am currently dedicated to delineating DNA co-methylation pattern maps across different tissue types in human normal and tumor samples.
+I am a PhD student at Shanghai Jiao Tong University, majoring in computational biology with a focus on cancer epigenomics. I utilize bioinformatics skills to systematically decoding dynamics of DNA methylation landscapes during cancer initiation, progress, drug response and resistance. In addition, I am interested in developing novel computational methods for non-invasive early cancer detection. I am currently dedicated to delineating DNA co-methylation pattern maps across different tissue types in human normal and tumor samples.
 
 Research Experiences
 ------
