@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-coming soon
+
+coming soon <br/>
 
 <!-- 
 {% include base_path %}

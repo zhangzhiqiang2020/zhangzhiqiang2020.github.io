@@ -6,8 +6,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-coming soon
-<br/>
+
+coming soon <br/>
 
 <!-- 
 ## Locations of key files/directories
