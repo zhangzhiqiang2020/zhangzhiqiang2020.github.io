@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 coming soon
+
 <!-- 
 {% include base_path %}
 
